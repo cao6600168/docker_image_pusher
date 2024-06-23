@@ -1,2 +1,4 @@
 nginx
 whyour/qinglong:latest
+oldiy/dosgame-web-docker:latest
+
