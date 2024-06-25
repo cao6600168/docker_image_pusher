@@ -1,1 +1,8 @@
 fs185085781/webos:v1.4.1
+nginx
+whyour/qinglong:latest
+oldiy/dosgame-web-docker:latest
+cloudflare/cloudflared:latest
+oldiy/dosgame-web-docker:latest
+gametron/minecraft:latest
+dmtc/chevereto:latest
