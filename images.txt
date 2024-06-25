@@ -3,5 +3,4 @@ whyour/qinglong:latest
 oldiy/dosgame-web-docker:latest
 cloudflare/cloudflared:latest
 oldiy/dosgame-web-docker:latest
-gametron/minecraft:latest
 dmtc/chevereto:latest
