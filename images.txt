@@ -6,3 +6,5 @@ cloudflare/cloudflared:latest
 oldiy/dosgame-web-docker:latest
 gametron/minecraft:latest
 dmtc/chevereto:latest
+kodcloud/kodbox:1.49
+
