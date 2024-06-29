@@ -1,1 +1,1 @@
-containrrr/watchtower:latest
+openfrp/frpc
