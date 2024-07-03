@@ -1,1 +1,2 @@
-openfrp/frpc
+
+openfrp/frpc:latest
