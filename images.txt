@@ -1,2 +1,2 @@
 
-openfrp/frpc:latest
+snowdreamtech/frpc
